@@ -5,7 +5,7 @@
 **SquamataSB_UploadMultipleChildren** is a Jupyter notebook for batch child creation and uploading files to data to ScienceBase
 
 This module performs the following operations:
-- Create list of upload data directories.
+- Creates a listing subdirectories to be uploaded.
 - Get a listing of child catalog items.
 - Match upload directory to child item. 
 - Replace existing files on ScienceBase with all files in upload directory.
